@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConAppRealAlgebra", "ConAppRealAlgebra.csproj", "{35A07E21-D0B9-45E5-B691-B22D161CC73D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35A07E21-D0B9-45E5-B691-B22D161CC73D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A07E21-D0B9-45E5-B691-B22D161CC73D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A07E21-D0B9-45E5-B691-B22D161CC73D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A07E21-D0B9-45E5-B691-B22D161CC73D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A87424C2-7B43-45C0-A347-EBAC1A7D5705}
+	EndGlobalSection
+EndGlobal
